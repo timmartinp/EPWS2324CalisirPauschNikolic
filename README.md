@@ -1,7 +1,5 @@
 # EPWS2324CalisirPauschNikolic
 
-
-
 Exposé: Lernspiel für Karteikarten - Gamifiziertes Sprachenlernen durch Jump-and-Run-Abenteuer
 
 Das Lernspiel für Karteikarten ist eine bahnbrechende Initiative, die das traditionelle Vokabellernen revolutioniert. In einer Welt, in der Gamification zunehmend als Mittel zur Förderung des Lernens anerkannt wird, bietet dieses Projekt eine innovative Lösung für das problematische Auswendiglernen von Vokabeln. Indem es spielerische Elemente in ein Jump-and-Run-Abenteuer integriert, schafft das Spiel eine dynamische Plattform für effektives Sprachenlernen, die sowohl unterhaltsam als auch bildend ist.
@@ -18,3 +16,6 @@ Besonderen Wert wird in der Entwicklung auf die visuellen Daten und algorithmisc
 Durch präzise Kollisionsalgorithmen interagieren Spielfiguren geschmeidig mit Plattformen und Hindernissen, was ein realistisches Spielerlebnis schafft. Zusätzlich visualisieren Algorithmen den individuellen Lernfortschritt, sodass Spieler genau erkennen können, welche Vokabeln sie beherrschen und welche sie weiter üben sollten. Spieler können außerdem eigene Spielfiguren und Karten erstellen, die durch intelligente Algorithmen nahtlos in das Spiel integriert werden, um ein ausgewogenes und unterhaltsames Gameplay zu gewährleisten.
 
 Das Lernspiel für Karteikarten ist nicht nur ein Spiel, sondern ein bildendes Erlebnis. Durch die geschickte Verschmelzung von Gamification und algorithmischer Verarbeitung schafft es eine einzigartige Lernumgebung, die nicht nur Wissen fördert, sondern auch Begeisterung für das Lernen weckt.
+
+J. Hamari, J. Koivisto and H. Sarsa, "Does Gamification Work? -- A Literature Review of Empirical Studies on Gamification," 2014 47th Hawaii International Conference on System Sciences, Waikoloa, HI, USA, 2014, pp. 3025-3034, doi: 10.1109/HICSS.2014.377.
+https://ieeexplore.ieee.org/abstract/document/6758978
